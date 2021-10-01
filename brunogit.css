@@ -1,7 +1,33 @@
-.corpo {background: rgb(30, 163, 204);  
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(-45deg, black, rgb(42, 187, 180) );
+}
+#form{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 70% );
+    background: #fff;
+    border-radius: 10px;
+    padding: 60px;
+    width: min-content;
 }
 
-.alinhamento {text-align: center; 
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 50px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
