@@ -39,3 +39,48 @@ b-menu li.active{ background-color: black;
     
 }
 
+
+
+
+
+
+
+.corpo01{
+    margin: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.b-menu01 ul{margin: 16px 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    overflow: hidden;
+
+}
+
+.b-menu01 li{ 
+    display: inline;
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+
+.b-menu01 li a {
+    display: block;
+    color: rgb(0, 255, 55);
+    padding: 20px 56px;
+    text-decoration: none;
+}
+
+.b-menu01 li a:hover{ background-color: black;
+}
+
+b-menu li.active{ background-color: black;
+}
+
+
+
+
+
