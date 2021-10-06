@@ -80,7 +80,12 @@ b-menu li.active{ background-color: black;
 b-menu li.active{ background-color: black;
 }
 
-
+.text01{
+    text-align: center;
+    position: relative;
+    border: solid;
+    border-color:rgb(26, 204, 26);
+}
 
 
 
