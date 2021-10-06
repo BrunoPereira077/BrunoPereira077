@@ -35,8 +35,13 @@ b-menu li.active{ background-color: black;
 
 .logo{ border-radius: 50%;
     text-align: center;
-    line-height: 50vh;    
+    line-height: 50vh;
+    
 }
+
+
+}
+
 
 .texto1{font-family: Arial, Helvetica, sans-serif;
 font-size: 30px;
