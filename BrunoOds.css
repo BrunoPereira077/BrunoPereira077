@@ -3,7 +3,7 @@ body{
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
+    font-size: 29px;
 }
 
 .b-menu ul{margin: 16px 0;
@@ -40,17 +40,12 @@ b-menu li.active{ background-color: black;
 }
 
 
-
-
-
-
-
 .corpo01{
     margin: 0;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
+    font-size: 29px;
 }
 
 .b-menu01 ul{margin: 16px 0;
@@ -83,10 +78,14 @@ b-menu li.active{ background-color: black;
 .text01{
     text-align: center;
     position: relative;
+    color: rgb(0, 0, 0);
     border: solid;
     border-color:rgb(26, 204, 26);
-    top: -100px;
+    top: -150px;
+  
 }
 
 
-
+.text2{color: aliceblue;
+    text-align: center;
+}
