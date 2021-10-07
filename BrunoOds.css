@@ -22,7 +22,7 @@ body{
 
 .b-menu li a {
     display: block;
-    color: rgb(0, 255, 55);
+    color: rgb(255, 0, 0);
     padding: 20px 56px;
     text-decoration: none;
 }
@@ -69,7 +69,7 @@ b-menu li.active{ background-color: black;
 
 .b-menu01 li a {
     display: block;
-    color: rgb(0, 255, 55);
+    color: rgb(255, 0, 0);
     padding: 20px 56px;
     text-decoration: none;
 }
@@ -89,4 +89,37 @@ b-menu li.active{ background-color: black;
 }
 
 
+.paragrafo1{font-family: Arial, Helvetica, sans-serif;   
+font-size: 32px;
+text-align: left;
+text-indent: 20px;
+color: rgb(0, 0, 0);
+}
 
+img{width: 250px;
+border-color: rgb(253, 4, 4);
+} 
+
+img, p{
+    display: inline-block;
+}
+
+.cortext{
+    color: chartreuse;
+}
+
+.paragrafo02{font-family: Arial, Helvetica, sans-serif;   
+    font-size: 32px;
+    text-align: left;
+    text-indent: 20px;
+    color: rgb(0, 0, 0)
+}
+
+.text03{color: red;
+
+}
+
+.logo{
+    
+    ;
+}
